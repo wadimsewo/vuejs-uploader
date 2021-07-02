@@ -21,7 +21,7 @@ This component makes use of a response property that returns an array of parts r
 If this property is in the response it will remove any parts in the queue that are not in that array.
 To make use of this property it expects to be formatted as `meta.remainingParts`.
 
-## Install
+## Installdd
 
 ```bash
 npm install vuejs-uploader
