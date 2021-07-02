@@ -26,6 +26,16 @@ To make use of this property it expects to be formatted as `meta.remainingParts`
 ```bash
 npm install vuejs-uploader
 ```
+.vue file:
+```js
+import Uploader from "vuejs-uploader";
+...
+export default {
+      components: {
+          Uploader,
+      },
+...
+```
 
 ## Usage
 
